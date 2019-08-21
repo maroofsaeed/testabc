@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lata Old Hindi Songs</string>
+
+
+    <string name="banner_home_footer">ca-app-pub-9254566385835911/7518532874</string>
+    <string name="interstitial_full_screen_ad">ca-app-pub-9254566385835911/5961908621</string>
+    <string name="native_ad">ca-app-pub-7903940922696389/3472022259</string>
+    <string name="see_more">See More</string>
+    <string name="more">MORE</string>
+
+    <string name="channel_name">New Notifications</string>
+</resources>

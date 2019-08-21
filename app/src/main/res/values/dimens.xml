@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="HeadingSize">15sp</dimen>
+    <dimen name="subHeading">16sp</dimen>
+    <dimen name="detailHeading">14sp</dimen>
+</resources>

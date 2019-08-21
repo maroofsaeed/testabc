@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "195026505629",
+    "firebase_url": "https://songs-62942.firebaseio.com",
+    "project_id": "songs-62942",
+    "storage_bucket": "songs-62942.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195026505629:android:12ae0dc8857646d5",
+        "android_client_info": {
+          "package_name": "com.fivestarhindisongs.lataoldhindisongs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195026505629-rm2a4sifhkk8o9u7v53mtn3c3uqsfl2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0IpqCUoB6aUlO0hdG3Bn5NXtfBIzY510"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
